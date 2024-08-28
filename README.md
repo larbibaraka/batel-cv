@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Getting Started
+# Batel CV (or Resume)
 
-First, run the development server:
+Batel is an Algerian word for "free" yes free from subscription to create a resume you create it you can keep it Enjoy !
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Hi, I'm Baraka Larbi! 👋
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+read me in progress ...
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 About Me
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+I'm a full stack developer who loves to build tools for him self and share them with others
 
-## Learn More
+## 🔗 Follow Me on
 
-To learn more about Next.js, take a look at the following resources:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barakalarbi/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Client:** Nextjs, TailwindCSS, DaisyUi
 
-## Deploy on Vercel
+**Server:** maybe backend-as-service maybe ..
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Feedback
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any feedback, please reach out to us at larbibaraka@gmail.com
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
