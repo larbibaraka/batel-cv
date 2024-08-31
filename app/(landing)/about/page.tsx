@@ -11,7 +11,7 @@ export default function About() {
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-                About ResumeBuilder
+                About Batel Cv
               </h1>
               <p className="max-w-[600px] text-gray-400 md:text-xl">
                 Empowering job seekers to create standout resumes and land their
@@ -21,11 +21,11 @@ export default function About() {
           </div>
           <div className="mx-auto max-w-3xl mt-12 space-y-8">
             <p className="text-gray-300 text-lg">
-              ResumeBuilder was founded in 2020 with a simple mission: to make
-              the job application process easier and more successful for
-              everyone. We believe that everyone deserves a chance to showcase
-              their skills and experience in the best possible light, regardless
-              of their background or design abilities.
+              Batel Cv was founded in 2024 with a simple mission: to make the
+              job application process easier and more successful for everyone.
+              We believe that everyone deserves a chance to showcase their
+              skills and experience in the best possible light, regardless of
+              their background or design abilities.
             </p>
             <p className="text-gray-300 text-lg">
               Our team of career experts and software engineers have worked
@@ -75,7 +75,7 @@ export default function About() {
                 Meet Our Leadership
               </h2>
               <p className="max-w-[900px] text-gray-400 md:text-xl">
-                The visionaries behind ResumeBuilder's success
+                The visionaries behind Batel Cv's success
               </p>
             </div>
           </div>
