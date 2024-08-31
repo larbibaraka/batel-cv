@@ -9,7 +9,7 @@ const LandingLayout = ({ children }: { children: React.ReactNode }) => {
         <Link className="flex items-center justify-center" href="/">
           <PenLine className="h-6 w-6 text-purple-400" />
           <span className="ml-2 text-lg font-bold text-purple-400">
-            ResumeBuilder
+            Batel Cv
           </span>
         </Link>
         <nav className="ml-auto flex gap-4 sm:gap-6">

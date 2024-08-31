@@ -10,7 +10,7 @@ const DahboardLayout = ({ children }: { children: React.ReactNode }) => {
         <Link className="flex items-center justify-center" href="/">
           <PenLine className="h-6 w-6 text-purple-400" />
           <span className="ml-2 text-lg font-bold text-purple-400">
-            ResumeBuilder
+            Batel Cv
           </span>
         </Link>
         <nav className="ml-auto flex gap-4 sm:gap-6">
@@ -37,7 +37,7 @@ const DahboardLayout = ({ children }: { children: React.ReactNode }) => {
       {children}
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t border-gray-800">
         <p className="text-xs text-gray-400">
-          © 2023 ResumeBuilder. All rights reserved.
+          © {new Date().getFullYear()} Batel Cv. All rights reserved.
         </p>
         <nav className="sm:ml-auto flex gap-4 sm:gap-6">
           <Link
