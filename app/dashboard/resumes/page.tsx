@@ -33,9 +33,11 @@ export default function ResumesPage() {
       <main className="flex-1 py-12 px-4 md:px-6 lg:px-8">
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-3xl font-bold text-gray-100">My Resumes</h1>
-          <Button className="bg-purple-600 hover:bg-purple-700 text-white">
-            <Plus className="mr-2 h-4 w-4" /> Create New Resume
-          </Button>
+          <Link href="/dashboard/resumes/create">
+            <Button className="bg-purple-600 hover:bg-purple-700 text-white">
+              <Plus className="mr-2 h-4 w-4" /> Create New Resume
+            </Button>
+          </Link>
         </div>
         <div className="flex justify-between items-center mb-6">
           <div className="flex items-center space-x-2">
